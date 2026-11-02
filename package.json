@@ -7,10 +7,13 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node --test"
-  },
+  "test": "vitest run"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
 }
