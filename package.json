@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node --test"
+    "test": "vitest run"
   },
   "keywords": [],
   "author": "",
